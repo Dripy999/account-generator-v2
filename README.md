@@ -6,4 +6,4 @@ then delete the exe file and run in the terminal:
 
 pyinstaller --onefile accgen.py
 
-make sure to remove the accgen.py file from src in to the main folder so it works!
+make sure to MOVE the accgen.py file from src in to the main folder so it works!
